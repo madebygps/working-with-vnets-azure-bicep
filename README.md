@@ -11,6 +11,7 @@ April 21th 2022| [Securing your Azure Virtual Network](secure-azure-vnet/README.
 
 ## Resources
 
+- [Participate in our Cloud Skills Challenge for the chance to win a free Azure certification voucher](https://aka.ms/AzureVNetsCSC1)
 - [Gwyneth Pena Siguenza Twitter](https://twitter.com/madebygps)
 - [Liam Hampton Twitter](https://twitter.com/liamchampton)
 
