@@ -5,7 +5,7 @@ As cloud computing becomes increasingly popular, you might think skills like net
 
  Date | Title |  Register Link | Recording | Files
 ---       | :---   | :--- | :--- | :---
-April 7th 2022 |[Build a virtual network with Bicep](build-vnet-bicep/README.md)                     |  [MeetUp]()      | [Bicep file](build-a-network-bicep/main.bicep)
+April 7th 2022 |[Build a virtual network with Bicep](build-vnet-bicep/README.md)                     |  [MeetUp]()      | | [Bicep file](build-a-network-bicep/main.bicep)
 April 14th 2022 |[Working within your Azure virtual network ](work-within-vnet/README.md)   | [MeetUp]()        |       
 April 21th 2022| [Securing your Azure Virtual Network](secure-azure-vnet/README.md)                 | [MeetUp]()            
 
