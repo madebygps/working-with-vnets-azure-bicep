@@ -9,6 +9,7 @@ In this session we're going to build a virtual network in Azure with 2 subnets, 
 - [Azure Bicep templates vm-simple-linux](https://github.com/Azure/bicep/blob/main/docs/examples/101/vm-simple-linux/main.bicep)
 - [Azure best practices for network security](https://docs.microsoft.com/en-us/azure/security/fundamentals/network-best-practices#use-strong-network-controls)
 - [Azure network security overview](https://docs.microsoft.com/en-us/azure/security/fundamentals/network-overview#network-access-control)
+- [Build your first Bicep template](https://aka.ms/AzureVNetsCSC2)
 
 ## Architecture diagram
 
